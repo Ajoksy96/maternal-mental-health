@@ -9,4 +9,4 @@ This repo contains the following notebooks:
 3. [mmh_report.docx](https://github.com/Ajoksy96/maternal-mental-health/blob/main/mmh_report.docx): Word document (17 pages) of a report detailing the project from end to end.
 4. [mmh_datafolio.pdf](https://github.com/Ajoksy96/maternal-mental-health/blob/main/mmh_datafolio.pdf): PDF document of a one-page brief summary poster of the project.
 5. [mmh_presentation_slides.pdf](https://github.com/Ajoksy96/maternal-mental-health/blob/main/mmh_presentation_slides.pdf): PDF document of a slide deck (12 slides) briefly describing the project.
-6. [Tableau dashbord of the project](https://public.tableau.com/app/profile/adebisi.akinyemi/viz/DS4ADashboard1_16743454750780/Overview) (not a notebook in this repo, but a link only).
+6. [Tableau dashboard of the project](https://public.tableau.com/app/profile/adebisi.akinyemi/viz/DS4ADashboard1_16743454750780/Overview) (not a notebook in this repo, but a link only).
